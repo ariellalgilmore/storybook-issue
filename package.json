@@ -27,6 +27,7 @@
     "@storybook/blocks": "^7.0.0-beta.30",
     "@storybook/web-components": "^7.0.0-beta.30",
     "@storybook/web-components-vite": "^7.0.0-beta.30",
+    "chromatic": "^6.14.0",
     "lit-html": "^2.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
